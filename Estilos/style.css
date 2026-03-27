@@ -46,15 +46,13 @@
 
      }
 
-     section#login > div#imagem {
+     section#login > div#imagens {
         display: block;
         background: #5f2c82 url('../Imagens/pexels.jpg') no-repeat;
         background-size: cover;
         background-position: center bottom;
         height: 200px;
-        width: 100%;
        
-        
      }
      section#login >  div#formulario {
         display: block;
