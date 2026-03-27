@@ -46,9 +46,9 @@
 
      }
 
-     section#login > div#imagens {
+     section#login > div#Imagem {
         display: block;
-        background: #5f2c82 url('../Imagens/pexels.jpg') no-repeat;
+        background: #5f2c82 url('..//Imagem/pexels-jonathanborba-36319611.jpg') no-repeat;
         background-size: cover;
         background-position: center bottom;
         height: 200px;
@@ -57,4 +57,13 @@
      section#login >  div#formulario {
         display: block;
         padding: 10px;
+     }
+
+     div#formulario > h1 {
+      text-align: center;
+      margin-bottom: 10px;
+     }
+
+     div#formulario  > p {
+      font-size: 0.8em;
      }
